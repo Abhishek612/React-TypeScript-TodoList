@@ -2,11 +2,11 @@
 
 ## Technologies and implementation.
 
-1: Code is written using typescript and also used some react hooks (like useState , useEffect)
-3: I have used jest and enzyme library for testing our component, for this purpose I have configure Enzyme adaptor in our project  
-I have write only two cases for testing some aspects In future we can write more testing cases according to need.
-4: These todo list is persistent, i.e.. After we reload or close the browser, these todos should be there.
-for this purpose I have used browser's local storge .
+Code is written using typescript and also used some react hooks (like useState , useEffect)<br />
+I have used jest and enzyme library for testing our component, for this purpose I have configure Enzyme adaptor in our project <br /> 
+I have write only two cases for testing some aspects In future we can write more testing cases according to need.<br />
+These todo lists are persistent, i.e.. After we reload or close the browser, these todos should be there.<br />
+For this purpose I have used browser's local storge .
 
 ## Available Scripts
 
